@@ -38,6 +38,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deployed on Vercel
 
-This app is deployed on Vercel -- LINK TBC
+This app is deployed on Vercel available at https://public-transport-analytics.danperkins.dev/
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
